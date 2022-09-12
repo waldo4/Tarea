@@ -1,0 +1,21 @@
+
+
+  #cosito{
+    display: flex;
+    flex-direction: row;
+  }
+
+  #flex-container {
+    background-color: #fc0000;
+    color: yellow;
+    margin: 10px;
+    font-size: 60px;
+    text-align: left;
+    width: 25%;
+    height: 20rem !important;
+  }
+
+  #flex-container:hover{
+    background-color: black;
+    color: white;
+  }
